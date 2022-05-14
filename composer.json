@@ -1,0 +1,7 @@
+{
+    "name": "STUFF",
+    "description":  "Content Management System",
+    "autoload": {
+        "files": ["functions.php"]
+    }
+}

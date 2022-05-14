@@ -1,0 +1,15 @@
+.title a {
+    color: black;
+    font-size: 125%;
+}
+
+.sidebar {
+    float: right;
+    width: 23%;
+}
+
+@media screen and (max-width: 987px) {
+    .sidebar {
+        display: none;
+    }
+}

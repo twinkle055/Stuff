@@ -1,0 +1,15 @@
+.fs-lg {
+    font-size: 200%;
+    font-weight: bold;
+}
+
+.ml-sm {
+    margin-left: 1px;
+}
+
+.sidebar-normal {
+    font-size: 13px;
+    position: absolute;
+    top: -10px;
+    left: 6em;
+}
